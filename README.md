@@ -160,172 +160,238 @@ Use the scripts to run specific parts of our experimental pipeline. Some depend 
 To modify/extend, consult src/ and write additional scripts to apply your added functionality in src.   
 
 
-## References
-[1] A. Mollahosseini, B. Hasani, and M. H. Mahoor, “Affect-
-net: A database for facial expression, valence, and arousal
-computing in the wild,” IEEE transactions on affective com-
-puting, vol. 10, no. 1, pp. 18–31, 2017. 1, 2, 3, 5
-[2] T. Baltruˇsaitis, P. Robinson, and L.-P. Morency, “Openface:
-an open source facial behavior analysis toolkit,” in 2016
-IEEE winter conference on applications of computer vision
-(WACV). IEEE, 2016, pp. 1–10. 1, 2
-[3] J. Hu, L. Mathur, P. P. Liang, and L.-P. Morency, “Openface
-3.0: A lightweight multitask system for comprehensive facial
-behavior analysis,” in 2025 IEEE 19th International Con-
-ference on Automatic Face and Gesture Recognition (FG).
-IEEE, 2025, pp. 1–11. 1, 2, 4
-[4] C. Fabian Benitez-Quiroz, R. Srinivasan, and A. M. Mar-
-tinez, “Emotionet: An accurate, real-time algorithm for the
-automatic annotation of a million facial expressions in the
-wild,” in Proceedings of the IEEE conference on computer
-vision and pattern recognition, 2016, pp. 5562–5570. 2, 3, 8
-[5] J. Mao, R. Xu, X. Yin, Y. Chang, B. Nie, A. Huang, and
-Y. Wang, “Poster++: A simpler and stronger facial expres-
-sion recognition network,” Pattern Recognition, vol. 157, p.
-110951, 2025. 2, 4
-[6] K. Ahuja, D. Kim, F. Xhakaj, V. Varga, A. Xie, S. Zhang,
-J. E. Townsend, C. Harrison, A. Ogan, and Y. Agarwal,
-“Edusense: Practical classroom sensing at scale,” Proceed-
-ings of the ACM on Interactive, Mobile, Wearable and Ubiq-
-uitous Technologies, vol. 3, no. 3, pp. 1–26, 2019. 2
-[7] P. Goldberg, ¨O. S¨umer, K. St¨urmer, W. Wagner, R. G¨ollner,
-P. Gerjets, E. Kasneci, and U. Trautwein, “Attentive or not?
-toward a machine learning approach to assessing students’
-visible engagement in classroom instruction,” Educational
-Psychology Review, vol. 33, no. 1, pp. 27–49, 2021. 3
-[8] A. Joshi, D. Allessio, J. Magee, J. Whitehill, I. Arroyo,
-B. Woolf, S. Sclaroff, and M. Betke, “Affect-driven learn-
-ing outcomes prediction in intelligent tutoring systems,” in
-2019 14th ieee international conference on automatic face
-& gesture recognition (fg 2019). IEEE, 2019, pp. 1–5.
-[9] X. Tang, Y. Gong, Y. Xiao, J. Xiong, and L. Bao, “Facial
-expression recognition for probing students’ emotional en-
-gagement in science learning,” Journal of Science Education
-and Technology, vol. 34, no. 1, pp. 13–30, 2025. 2
-[10] I. J. Goodfellow, D. Erhan, P. L. Carrier, A. Courville,
-M. Mirza, B. Hamner, W. Cukierski, Y. Tang, D. Thaler,
-D.-H. Lee et al., “Challenges in representation learning: A
-report on three machine learning contests,” in International
-conference on neural information processing. Springer,
-2013, pp. 117–124. 2, 3
-[11] A. P. Fard, M. M. Hosseini, T. D. Sweeny, and M. H. Ma-
-hoor, “Affectnet+: A database for enhancing facial expres-
-sion recognition with soft-labels,” IEEE Transactions on Af-
-fective Computing, 2025. 2, 4
-[12] J. A. Russell, “A circumplex model of affect.” Journal of per-
-sonality and social psychology, vol. 39, no. 6, p. 1161, 1980.
-2, 3
-[13] F. Zhou, S. Kong, C. C. Fowlkes, T. Chen, and B. Lei, “Fine-
-grained facial expression analysis using dimensional emo-
-tion model,” Neurocomputing, vol. 392, pp. 38–49, 2020. 2
-[14] S. D’Mello, R. W. Picard, and A. Graesser, “Toward an
-affect-sensitive autotutor,” IEEE Intelligent Systems, vol. 22,
-no. 4, pp. 53–61, 2007. 2, 3
-[15] R. S. Baker, S. K. D’Mello, M. M. T. Rodrigo, and A. C.
-Graesser, “Better to be frustrated than bored: The in-
-cidence, persistence, and impact of learners’ cognitive–
-affective states during interactions with three different
-computer-based learning environments,” International Jour-
-nal of Human-Computer Studies, vol. 68, no. 4, pp. 223–241,
-2010. 2
-[16] E. B. Cloude, A. Munshi, J. A. Andres, J. Ocumpaugh, R. S.
-Baker, and G. Biswas, “Exploring confusion and frustra-
-tion as non-linear dynamical systems,” in Proceedings of the
-14th learning analytics and knowledge conference, 2024, pp.
-241–252. 2
-[17] R. A. Calvo and S. D’Mello, “Affect detection: An interdis-
-ciplinary review of models, methods, and their applications,”
-IEEE Transactions on affective computing, vol. 1, no. 1, pp.
-18–37, 2010. 2
-[18] D. M. Russell and M. Oren, “Retrospective cued recall: a
-method for accurately recalling previous user behaviors,” in
-2009 42nd Hawaii International Conference on System Sci-
-ences. IEEE, 2009, pp. 1–9. 2, 3
-[19] S. Anindho, V. Venkatesha, and N. Blanchard, “A method-
-ological framework for capturing cognitive-affective states
-in collaborative learning,” arXiv preprint arXiv:2507.01166,
-2025. 2, 3
-[20] S. Li, W. Deng, and J. Du, “Reliable crowdsourcing and deep
-locality-preserving learning for expression recognition in the
-wild,” in Proceedings of the IEEE conference on computer
-vision and pattern recognition, 2017, pp. 2852–2861. 2, 3
-[21] S. Zhang, Y. Zhang, Y. Zhang, Y. Wang, and Z. Song, “A
-dual-direction attention mixed feature network for facial ex-
-pression recognition,” Electronics, vol. 12, no. 17, p. 3595,
-2023. 2, 4
-[22] D. Chang, Y. Yin, Z. Li, M. Tran, and M. Soleymani, “Li-
-breface: An open-source toolkit for deep facial expression
-analysis,” in Proceedings of the IEEE/CVF winter confer-
-ence on applications of computer vision, 2024, pp. 8205–
-8215. 2, 4
-[23] G. A. Miller, “Wordnet: a lexical database for english,” Com-
-munications of the ACM, vol. 38, no. 11, pp. 39–41, 1995. 2
-[24] M. K. Underwood, “Peer social status and children’s under-
-standing of the expression and control of positive and nega-
-tive emotions,” Merrill-Palmer Quarterly (1982-), pp. 610–
-634, 1997. 2
-[25] L. Isenbarger and M. Zembylas, “The emotional labour of
-caring in teaching,” Teaching and teacher education, vol. 22,
-no. 1, pp. 120–134, 2006. 2
-[26] P. Ekman, “An argument for basic emotions,” Cognition &
-emotion, vol. 6, no. 3-4, pp. 169–200, 1992. 3
-[27] M. P. Cross, A. M. Acevedo, and J. F. Hunter, “A critique of
-automated approaches to code facial expressions: What do
-researchers need to know?” Affective Science, vol. 4, no. 3,
-pp. 500–505, 2023. 3
-[28] A. Horvers, N. Tombeng, T. Bosse, A. W. Lazonder, and
-I. Molenaar, “Detecting emotions through electrodermal ac-
-tivity in learning contexts: A systematic review,” Sensors,
-vol. 21, no. 23, p. 7869, 2021. 3
-[29] J. W. Y. Chung, H. C. F. So, M. M. T. Choi, V. C. M. Yan,
-and T. K. S. Wong, “Artificial intelligence in education: Us-
-ing heart rate variability (hrv) as a biomarker to assess emo-
-tions objectively,” Computers and Education: Artificial In-
-telligence, vol. 2, p. 100011, 2021. 3
-[30] I. Khebour, R. Brutti, I. Dey, R. Dickler, K. Sikes, K. Lai,
-M. Bradford, B. Cates, P. Hansen, C. Jung et al., “When text
-and speech are not enough: A multimodal dataset of collab-
-oration in a situated task,” Journal of open humanities data,
-vol. 10, 2024. 3
-[31] S. Anindho, V. Venkatesha, M. Bradford, A. M. Cleary, and
-N. Blanchard, “An exploration of internal states in collab-
-orative problem solving,” in International Conference on
-Human-Computer Interaction. Springer, 2025, pp. 135–
-150. 4
+# References
+
+[1] A. Mollahosseini, B. Hasani, and M. H. Mahoor,
+"Affectnet: A database for facial expression, valence, and arousal computing in the wild,"
+*IEEE Transactions on Affective Computing*, vol. 10, no. 1, pp. 18–31, 2017.
+
+---
+
+[2] T. Baltrušaitis, P. Robinson, and L.-P. Morency,
+"Openface: an open source facial behavior analysis toolkit,"
+in *2016 IEEE Winter Conference on Applications of Computer Vision (WACV)*. IEEE, 2016, pp. 1–10.
+
+---
+
+[3] J. Hu, L. Mathur, P. P. Liang, and L.-P. Morency,
+"Openface 3.0: A lightweight multitask system for comprehensive facial behavior analysis,"
+in *2025 IEEE 19th International Conference on Automatic Face and Gesture Recognition (FG)*. IEEE, 2025, pp. 1–11.
+
+---
+
+[4] C. Fabian Benitez-Quiroz, R. Srinivasan, and A. M. Martinez,
+"Emotionet: An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild,"
+in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*, 2016, pp. 5562–5570.
+
+---
+
+[5] J. Mao, R. Xu, X. Yin, Y. Chang, B. Nie, A. Huang, and Y. Wang,
+"Poster++: A simpler and stronger facial expression recognition network,"
+*Pattern Recognition*, vol. 157, p. 110951, 2025.
+
+---
+
+[6] K. Ahuja, D. Kim, F. Xhakaj, V. Varga, A. Xie, S. Zhang, J. E. Townsend, C. Harrison, A. Ogan, and Y. Agarwal,
+"Edusense: Practical classroom sensing at scale,"
+*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 3, no. 3, pp. 1–26, 2019.
+
+---
+
+[7] P. Goldberg, Ö. Sümer, K. Stürmer, W. Wagner, R. Göllner, P. Gerjets, E. Kasneci, and U. Trautwein,
+"Attentive or not? Toward a machine learning approach to assessing students' visible engagement in classroom instruction,"
+*Educational Psychology Review*, vol. 33, no. 1, pp. 27–49, 2021.
+
+---
+
+[8] A. Joshi, D. Allessio, J. Magee, J. Whitehill, I. Arroyo, B. Woolf, S. Sclaroff, and M. Betke,
+"Affect-driven learning outcomes prediction in intelligent tutoring systems,"
+in *2019 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2019)*. IEEE, 2019, pp. 1–5.
+
+---
+
+[9] X. Tang, Y. Gong, Y. Xiao, J. Xiong, and L. Bao,
+"Facial expression recognition for probing students' emotional engagement in science learning,"
+*Journal of Science Education and Technology*, vol. 34, no. 1, pp. 13–30, 2025.
+
+---
+
+[10] I. J. Goodfellow, D. Erhan, P. L. Carrier, A. Courville, M. Mirza, B. Hamner, W. Cukierski, Y. Tang, D. Thaler, D.-H. Lee et al.,
+"Challenges in representation learning: A report on three machine learning contests,"
+in *International Conference on Neural Information Processing*. Springer, 2013, pp. 117–124.
+
+---
+
+[11] A. P. Fard, M. M. Hosseini, T. D. Sweeny, and M. H. Mahoor,
+"Affectnet+: A database for enhancing facial expression recognition with soft-labels,"
+*IEEE Transactions on Affective Computing*, 2025.
+
+---
+
+[12] J. A. Russell,
+"A circumplex model of affect,"
+*Journal of Personality and Social Psychology*, vol. 39, no. 6, p. 1161, 1980.
+
+---
+
+[13] F. Zhou, S. Kong, C. C. Fowlkes, T. Chen, and B. Lei,
+"Fine-grained facial expression analysis using dimensional emotion model,"
+*Neurocomputing*, vol. 392, pp. 38–49, 2020.
+
+---
+
+[14] S. D'Mello, R. W. Picard, and A. Graesser,
+"Toward an affect-sensitive autotutor,"
+*IEEE Intelligent Systems*, vol. 22, no. 4, pp. 53–61, 2007.
+
+---
+
+[15] R. S. Baker, S. K. D'Mello, M. M. T. Rodrigo, and A. C. Graesser,
+"Better to be frustrated than bored: The incidence, persistence, and impact of learners' cognitive–affective states during interactions with three different computer-based learning environments,"
+*International Journal of Human-Computer Studies*, vol. 68, no. 4, pp. 223–241, 2010.
+
+---
+
+[16] E. B. Cloude, A. Munshi, J. A. Andres, J. Ocumpaugh, R. S. Baker, and G. Biswas,
+"Exploring confusion and frustration as non-linear dynamical systems,"
+in *Proceedings of the 14th Learning Analytics and Knowledge Conference*, 2024, pp. 241–252.
+
+---
+
+[17] R. A. Calvo and S. D'Mello,
+"Affect detection: An interdisciplinary review of models, methods, and their applications,"
+*IEEE Transactions on Affective Computing*, vol. 1, no. 1, pp. 18–37, 2010.
+
+---
+
+[18] D. M. Russell and M. Oren,
+"Retrospective cued recall: a method for accurately recalling previous user behaviors,"
+in *2009 42nd Hawaii International Conference on System Sciences*. IEEE, 2009, pp. 1–9.
+
+---
+
+[19] S. Anindho, V. Venkatesha, and N. Blanchard,
+"A methodological framework for capturing cognitive-affective states in collaborative learning,"
+*arXiv preprint arXiv:2507.01166*, 2025.
+
+---
+
+[20] S. Li, W. Deng, and J. Du,
+"Reliable crowdsourcing and deep locality-preserving learning for expression recognition in the wild,"
+in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*, 2017, pp. 2852–2861.
+
+---
+
+[21] S. Zhang, Y. Zhang, Y. Zhang, Y. Wang, and Z. Song,
+"A dual-direction attention mixed feature network for facial expression recognition,"
+*Electronics*, vol. 12, no. 17, p. 3595, 2023.
+
+---
+
+[22] D. Chang, Y. Yin, Z. Li, M. Tran, and M. Soleymani,
+"Libreface: An open-source toolkit for deep facial expression analysis,"
+in *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision*, 2024, pp. 8205–8215.
+
+---
+
+[23] G. A. Miller,
+"Wordnet: a lexical database for English,"
+*Communications of the ACM*, vol. 38, no. 11, pp. 39–41, 1995.
+
+---
+
+[24] M. K. Underwood,
+"Peer social status and children's understanding of the expression and control of positive and negative emotions,"
+*Merrill-Palmer Quarterly (1982-)*, pp. 610–634, 1997.
+
+---
+
+[25] L. Isenbarger and M. Zembylas,
+"The emotional labour of caring in teaching,"
+*Teaching and Teacher Education*, vol. 22, no. 1, pp. 120–134, 2006.
+
+---
+
+[26] P. Ekman,
+"An argument for basic emotions,"
+*Cognition & Emotion*, vol. 6, no. 3-4, pp. 169–200, 1992.
+
+---
+
+[27] M. P. Cross, A. M. Acevedo, and J. F. Hunter,
+"A critique of automated approaches to code facial expressions: What do researchers need to know?"
+*Affective Science*, vol. 4, no. 3, pp. 500–505, 2023.
+
+---
+
+[28] A. Horvers, N. Tombeng, T. Bosse, A. W. Lazonder, and I. Molenaar,
+"Detecting emotions through electrodermal activity in learning contexts: A systematic review,"
+*Sensors*, vol. 21, no. 23, p. 7869, 2021.
+
+---
+
+[29] J. W. Y. Chung, H. C. F. So, M. M. T. Choi, V. C. M. Yan, and T. K. S. Wong,
+"Artificial intelligence in education: Using heart rate variability (HRV) as a biomarker to assess emotions objectively,"
+*Computers and Education: Artificial Intelligence*, vol. 2, p. 100011, 2021.
+
+---
+
+[30] I. Khebour, R. Brutti, I. Dey, R. Dickler, K. Sikes, K. Lai, M. Bradford, B. Cates, P. Hansen, C. Jung et al.,
+"When text and speech are not enough: A multimodal dataset of collaboration in a situated task,"
+*Journal of Open Humanities Data*, vol. 10, 2024.
+
+---
+
+[31] S. Anindho, V. Venkatesha, M. Bradford, A. M. Cleary, and N. Blanchard,
+"An exploration of internal states in collaborative problem solving,"
+in *International Conference on Human-Computer Interaction*. Springer, 2025, pp. 135–150.
+
+---
+
 [32] J. Deng, J. Guo, E. Ververas, I. Kotsia, and S. Zafeiriou,
-“Retinaface: Single-shot multi-level face localisation in the
-wild,” in Proceedings of the IEEE/CVF conference on com-
-puter vision and pattern recognition, 2020, pp. 5203–5212.
-4
-[33] A. Savchenko, “Facial expression recognition with adaptive
-frame rate based on multiple testing correction,” in Pro-
-ceedings of the 40th International Conference on Machine
-Learning (ICML), ser. Proceedings of Machine Learning
-Research, A. Krause, E. Brunskill, K. Cho, B. Engel-
-hardt, S. Sabato, and J. Scarlett, Eds., vol. 202. PMLR,
-23–29 Jul 2023, pp. 30 119–30 129. [Online]. Available:
-https://proceedings.mlr.press/v202/savchenko23a.html 4, 5
-[34] P. Wang, S. Bai, S. Tan, S. Wang, Z. Fan, J. Bai, K. Chen,
-X. Liu, J. Wang, W. Ge et al., “Qwen2-vl: Enhancing vision-
-language model’s perception of the world at any resolution,”
-arXiv preprint arXiv:2409.12191, 2024. 4
-[35] S. I. Serengil and A. Ozpinar, “Hyperextended lightface: A
-facial attribute analysis framework,” in 2021 International
-Conference on Engineering and Emerging Technologies
-(ICEET). IEEE, 2021, pp. 1–4. [Online]. Available:
-https://ieeexplore.ieee.org/document/9659697 5
-[36] D. Kollias and S. Zafeiriou, “Aff-wild2: Extending the
-aff-wild database for affect recognition,” arXiv preprint
-arXiv:1811.07770, 2018. 5
-[37] T. Karras, S. Laine, and T. Aila, “A style-based generator ar-
-chitecture for generative adversarial networks,” in Proceed-
-ings of the IEEE/CVF conference on computer vision and
-pattern recognition, 2019, pp. 4401–4410. 8
-[38] S. M. Mavadati, M. H. Mahoor, K. Bartlett, P. Trinh, and
-J. F. Cohn, “Disfa: A spontaneous facial action inten-
-sity database,” IEEE Transactions on Affective Computing,
-vol. 4, no. 2, pp. 151–160, 2013. 8
-[39] A. Chaubey, X. Guan, and M. Soleymani, “Face-llava: Facial
-expression and attribute understanding through instruction
-tuning,” in Proceedings of the IEEE/CVF Winter Conference
-on Applications of Computer Vision, 2026, pp. 2648–2660.
+"Retinaface: Single-shot multi-level face localisation in the wild,"
+in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2020, pp. 5203–5212.
+
+---
+
+[33] A. Savchenko,
+"Facial expression recognition with adaptive frame rate based on multiple testing correction,"
+in *Proceedings of the 40th International Conference on Machine Learning (ICML)*, ser. Proceedings of Machine Learning Research, vol. 202. PMLR, 23–29 Jul 2023, pp. 30119–30129.
+Available: <https://proceedings.mlr.press/v202/savchenko23a.html>
+
+---
+
+[34] P. Wang, S. Bai, S. Tan, S. Wang, Z. Fan, J. Bai, K. Chen, X. Liu, J. Wang, W. Ge et al.,
+"Qwen2-vl: Enhancing vision-language model's perception of the world at any resolution,"
+*arXiv preprint arXiv:2409.12191*, 2024.
+
+---
+
+[35] S. I. Serengil and A. Ozpinar,
+"Hyperextended lightface: A facial attribute analysis framework,"
+in *2021 International Conference on Engineering and Emerging Technologies (ICEET)*. IEEE, 2021, pp. 1–4.
+Available: <https://ieeexplore.ieee.org/document/9659697>
+
+---
+
+[36] D. Kollias and S. Zafeiriou,
+"Aff-wild2: Extending the aff-wild database for affect recognition,"
+*arXiv preprint arXiv:1811.07770*, 2018.
+
+---
+
+[37] T. Karras, S. Laine, and T. Aila,
+"A style-based generator architecture for generative adversarial networks,"
+in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2019, pp. 4401–4410.
+
+---
+
+[38] S. M. Mavadati, M. H. Mahoor, K. Bartlett, P. Trinh, and J. F. Cohn,
+"Disfa: A spontaneous facial action intensity database,"
+*IEEE Transactions on Affective Computing*, vol. 4, no. 2, pp. 151–160, 2013.
+
+---
+
+[39] A. Chaubey, X. Guan, and M. Soleymani,
+"Face-llava: Facial expression and attribute understanding through instruction tuning,"
+in *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision*, 2026, pp. 2648–2660.
