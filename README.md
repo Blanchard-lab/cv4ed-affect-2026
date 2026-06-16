@@ -132,11 +132,6 @@ Here are the environments we are currently using:
 
 If you are getting package dependency errors, most likely you are not using the right environment.
 
-### Data
-We use two datasets for our experiments: Epistemic Emotions in Collaborative Problem Solving: Weights Task (EECPS-WT) and AffectNet+. EECPS-WT (our contribution) and AffectNet+ are both available to academic researchers only and not for commercial use. 
-
-We will share information about how to access our data to the public after the double-blind review process. Once access is granted, move the dataset directory to the root of the repository and rename it `data`. For AffectNet+, access information is provided here: https://www.mohammadmahoor.com/pages/databases/affectnet/
-
 
 ### Models
 We did not use CAGE as we were unable to retrieve the pretrained weights from their github. For the models we have used and reported in the paper, here are the instructions to retrieve the code and weights:
